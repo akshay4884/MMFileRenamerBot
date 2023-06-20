@@ -1,8 +1,7 @@
 class Translation(object):
-    START_TEXT = """ <b> Hi {} , \nI'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail And Custom Caption support!</b> \n
+    START_TEXT = """ <b> Hi {} , \n\nI'm A Simple File Renamer+File To Video Converter Bot (2GB Suprt) With Permanent Thumbnail And Custom Caption support!</b> \n
 
-<b>𝙈𝙮 𝘿𝙀𝙑 :- <a href='http://t.me/dark_lord_8'>𝕯𝖆𝖗𝖐 𝕷𝖔𝖗𝖉</a></b> \n 
-"""
+<b>𝙈𝙮 𝘿𝙀𝙑 :- <a href='http://t.me/dark_lord_8'>𝕯𝖆𝖗𝖐 𝕷𝖔𝖗𝖉</a></b> """
 
     BANNED_USER_TEXT = "Sorry!! But @Dark_Lord_8 Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @TEAMTELEFLIXX For more Details.. " 
     DOWNLOAD_START = "<b>Downloading To My server !! Pls Wait</b>"
@@ -17,7 +16,7 @@ class Translation(object):
     NO_THUMB_FOUND = "No Thumbnail found"
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
     ABOUT_ME = """<b>Meh : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n i can also convert files into videos \n 𝙈𝙮 𝘿𝙀𝙑 :- <a href='http://t.me/dark_lord_8'>𝕯𝖆𝖗𝖐 𝕷𝖔𝖗𝖉</a>"</b>"""
-    HELP_USER = """Checkout The Available Commands Here \n\n If you Like Me Support Us @DK_BOTx❤️"""
+    HELP_USER = """Checkout The Available Commands Here \n\n If you Like Me Support Us @TEAMTELEFLIXX❤️"""
     RENAME_HELP = """Here are The Available Commands In Reanme \n\n\n▪️ <code>/rename</code> : Reply To An File/video With <code>/rename Filename.extension</code> For Renaming"""
     C2V_HELP = """Here Are The Available Commands In File To Video \n\n\n ▪️<code>/c2v</code> : Reply To An File With /c2v To Convert It Into Video"""
     THUMBNAIL_HELP = """Here Are The Available Commands In Custom Thumbnail \n\n\n ▪️ Send A Photo To Set The Custom Thumbnail \n▪️ <code>/showthumb</code> : For Checking The Current Thumbnail \n▪️<code>/delthumb</code> : For Deleting The Current Saved Thumbnail"""
